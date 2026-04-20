@@ -29,5 +29,6 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.4.0",
     "vite": "^8.0.4"
-  }
+  },
+  "homepage": "https://tejuu27.github.io/Project---FitForge"
 }
